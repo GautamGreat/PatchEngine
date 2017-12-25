@@ -4,6 +4,8 @@ interface
 
 uses
   Windows, Classes, SysUtils;
+  
+  { PatchEngine for Delphi, Coded by GautamGreat @TeamURET }
 
 type
   TPatchEngine = class
